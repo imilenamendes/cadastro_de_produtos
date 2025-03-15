@@ -1,4 +1,4 @@
-### Interface ✨
+=### Interface ✨
 #
 
 ![image (1)](https://github.com/user-attachments/assets/1f805594-39b4-4f33-af5b-f46e7165c5d5)
@@ -10,7 +10,7 @@
 
 ### Código do projeto 👩🏽‍💻 
 
-'''
+"""
 import sqlite3
 import customtkinter as ctk
 from customtkinter import *
@@ -216,4 +216,4 @@ def on_closing():
 
 root.protocol("WM_DELETE_WINDOW", on_closing)
 root.mainloop()
-'''
+"""
